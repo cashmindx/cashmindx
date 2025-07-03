@@ -1,0 +1,1 @@
+console.log('CASHMIND X Frontend Ready');
