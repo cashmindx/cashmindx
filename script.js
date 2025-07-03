@@ -1,1 +1,0 @@
-console.log('CASHMIND X script loaded');
